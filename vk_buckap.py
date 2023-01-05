@@ -3,9 +3,9 @@ import requests
 import json
 from datetime import datetime
 
-vk_access_token = ''
-user_id = ''
-yd_access_token = ''
+vk_access_token = ' '
+user_id = ' '
+yd_access_token = ' '
 
 
 class VK:
